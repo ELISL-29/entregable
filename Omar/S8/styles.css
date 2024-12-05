@@ -1,0 +1,48 @@
+body{
+    background-color: steelblue;
+    color: chartreuse;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+img{
+    width: 100% ;
+}
+
+table, th, td{
+    border: 1px solid chartreuse;
+    border-collapse: collapse;
+    background-color: steelblue;
+    color: chartreuse;
+    text-align: center;
+    padding: 10px 5px;
+}
+
+div.imagen{
+    width: 100%;
+    height: 50%;
+}
+
+div.parrafo{
+    margin: 15px;
+    border: none;
+    padding: 10px;
+}
+
+div.superior, div.inferior{
+    display: flex;
+    width: 95%;
+}
+
+div.lista{
+    margin-left: 125px;
+}
+
+li{
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+
+}
